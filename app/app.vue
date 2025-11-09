@@ -22,7 +22,7 @@
                     class="text-blue-600 hover:underline font-medium"
                 >
                     vvv-poettmes@web.de</a
-                >
+                >.
             </p>
 
             <p>
